@@ -1,7 +1,7 @@
 # 🔐 Aeon ID
 
 Aeon ID is a new generation identity architecture designed from the ground up.  
-It introduces a modern security model based on local cryptography, secure flows and modular authentication layers — without relying on traditional password-based or legacy systems.
+It introduces a modern security model based on local cryptography, secure flows and modular authentication layers, without relying on traditional password-based or legacy systems.
 
 ---
 
